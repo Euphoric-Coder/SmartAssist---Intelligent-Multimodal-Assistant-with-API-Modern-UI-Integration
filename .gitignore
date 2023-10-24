@@ -4078,3 +4078,5 @@ mail_env/lib/python3.11/site-packages/setuptools-65.5.0.dist-info/RECORD
 mail_env/lib/python3.11/site-packages/setuptools-65.5.0.dist-info/REQUESTED
 mail_env/lib/python3.11/site-packages/setuptools-65.5.0.dist-info/top_level.txt
 mail_env/lib/python3.11/site-packages/setuptools-65.5.0.dist-info/WHEEL
+.vscode/settings.json
+.DS_Store
