@@ -8160,3 +8160,10 @@ virt_env/lib/python3.11/site-packages/setuptools-65.5.0.dist-info/RECORD
 virt_env/lib/python3.11/site-packages/setuptools-65.5.0.dist-info/REQUESTED
 virt_env/lib/python3.11/site-packages/setuptools-65.5.0.dist-info/top_level.txt
 virt_env/lib/python3.11/site-packages/setuptools-65.5.0.dist-info/WHEEL
+virt_env/bin/pip 2
+virt_env/bin/pip3 2
+virt_env/bin/pip3.11 2
+virt_env/lib/python3.11/site-packages/pip/__init__ 2.py
+virt_env/lib/python3.11/site-packages/pip/__main__ 2.py
+virt_env/lib/python3.11/site-packages/pip/__pip-runner__ 2.py
+virt_env/lib/python3.11/site-packages/pip/py 2.typed
